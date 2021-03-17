@@ -13,8 +13,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true&count_private=true)
 
 <div align="center">
-  <a href="https://github.com/lindluni"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
-  <a href="https://www.linkedin.com/in/btl5037/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a>
+  <a href="https://github.com/kgeonw"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
+  <a href="https://www.linkedin.com/in/kgeonw/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a>
 </div>
 
 
