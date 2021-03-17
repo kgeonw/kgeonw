@@ -10,7 +10,7 @@
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true)
 
 <div align="center">
   <a href="https://github.com/kgeonw"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
