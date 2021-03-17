@@ -1,4 +1,4 @@
-## My name is GeonWoo KIM
+## My name is Geonwoo KIM
 #### I am a DevOps Engineer at GitHub
 #### I also serve as a Contribute of the Linux Foundation's Hyperledger Fabric, an enterprise blockchain OSS project
 
@@ -10,7 +10,7 @@
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true&count_private=true)
 
 <div align="center">
   <a href="https://github.com/lindluni"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
