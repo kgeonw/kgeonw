@@ -1,4 +1,4 @@
-## My name is Geonwoo KIM
+## My name is GeonWoo KIM
 #### I am a DevOps Engineer at GitHub
 #### I also serve as a Contribute of the Linux Foundation's Hyperledger Fabric, an enterprise blockchain OSS project
 
