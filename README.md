@@ -1,5 +1,12 @@
-## My name is GeonWoo KIM
-#### I am a DevOps Engineer at GitHub
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=kgeonw&&style=flat-square" align="right" />
+</div>
+  
+
+<br/>  
+
+## I'M GeonWoo KIM!
+#### I am a Blockchain and DevOps Engineer at GitHub
 #### I also serve as a Contribute of the Linux Foundation's Hyperledger Fabric, an enterprise blockchain OSS project
 
 ---
@@ -10,7 +17,20 @@
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true)
+![Github stats]()
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgeonw&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
 
 <div align="center">
   <a href="https://github.com/kgeonw"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' ></a>  
