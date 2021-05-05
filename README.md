@@ -6,7 +6,7 @@
 <br/>  
 
 ## I'M GeonWoo KIM!
-#### I am a Blockchain and DevOps Engineer at GitHub
+#### I am a Blockchain and Software Engineer at GitHub
 #### I also serve as a Contribute of the Linux Foundation's Hyperledger Fabric, an enterprise blockchain OSS project
 
 ---
