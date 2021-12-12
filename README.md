@@ -7,29 +7,26 @@
 
 ## I'M GeonWoo KIM!
 #### I am a Blockchain and Software Engineer
-#### I also serve as a Contribute of the Linux Foundation's Hyperledger Fabric, an enterprise blockchain OSS project
+#### I also serve as a Contribute of the Linux Foundation's Hyperledger Fabric and Cardano, blockchain OSS project
 
 ---
+
 
 **Open Source Projects I Contribute To**
 
 - [Hyperledger Fabric](https://github.com/hyperledger/fabric)
+
 - [Cardano (ADA)](https://github.com/input-output-hk)
+
 
 ---
 
+
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=kgeonw&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgeonw&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kgeonw&show_icons=true&count_private=true&hide_border=true)
 
 
 <div align="center">
